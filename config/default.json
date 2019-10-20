@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nii123:nii123@hospital-1sovc.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "hospitalmangementsystem"
+}
